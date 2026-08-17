@@ -10,7 +10,7 @@ Es mi cuaderno de bitácora siguiendo el temario oficial de JSCamp. Cada carpeta
 
 | # | Carpeta                      | Módulo (JSCamp)                    | Clases | Estado |
 | - | ------------------------------ | ------------------------------------- | :----: | :----: |
-| 01 | `01_intro`                     | Introducción al Bootcamp              |   8    |   🔄   |
+| 01 | `01_intro`                     | Introducción al Bootcamp              |   8    |   ✅   |
 | 02 | `02_html_css`                  | HTML y CSS                            |   22   |   ⬜   |
 | 03 | `03_javascript`                | JavaScript                            |   28   |   ⬜   |
 | 04 | `04_react`                     | React                                 |   43   |   ⬜   |
